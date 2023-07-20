@@ -12,7 +12,7 @@ I'm Fernando Vasconcelos Melo Costa, Fullstack developer from Brazil.
 ## 🚀 Expertise
 Welcome to my GitHub profile! I'm Fernando, a passionate Fullstack Developer with a deep love for building web, mobile applications, and APIs. Node.js, Next.js, and React Native are my go-to tools for exceptional app development, but it's the fascinating world of APIs that truly captivates me.
 
-##❤️ Why I Love Building APIs:
+## ❤️ Why I Love Building APIs:
 I am passionate about building APIs because they empower seamless communication between systems, allowing me to create scalable solutions for growing user demands. APIs also drive innovation, inspiring creativity and opening up new possibilities. Contributing to enhanced user experiences and empowering other developers fuels my motivation, while the rapidly evolving API landscape keeps my skills sharp and my passion for development alive.
 
 
