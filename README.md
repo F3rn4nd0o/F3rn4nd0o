@@ -12,10 +12,6 @@ I'm Fernando Vasconcelos Melo Costa, Fullstack developer from Brazil.
 ## 🚀 Expertise
 Welcome to my GitHub profile! I'm Fernando, a passionate Fullstack Developer with a deep love for building web, mobile applications, and APIs. Node.js, Next.js, and React Native are my go-to tools for exceptional app development, but it's the fascinating world of APIs that truly captivates me.
 
-## ❤️ Why I Love Building APIs:
-I am passionate about building APIs because they empower seamless communication between systems, allowing me to create scalable solutions for growing user demands. APIs also drive innovation, inspiring creativity and opening up new possibilities. Contributing to enhanced user experiences and empowering other developers fuels my motivation, while the rapidly evolving API landscape keeps my skills sharp and my passion for development alive.
-
-
 
 ## Coding Activity:
 
@@ -24,17 +20,4 @@ I am passionate about building APIs because they empower seamless communication 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F3rn4nd0o&theme=react)
 
 ## My Development Stack:
-<!--
-**F3rn4nd0o/F3rn4nd0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
