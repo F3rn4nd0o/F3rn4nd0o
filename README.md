@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Fernando V. Melo Costa, Fullstack developer from Brazil. 
+I'm Fernando Vasconcelos Melo Costa, Fullstack developer from Brazil. 
 
 ## Where to find me:
 
