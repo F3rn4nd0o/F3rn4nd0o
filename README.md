@@ -4,10 +4,14 @@ Welcome to my page!
 
 I'm Fernando Vasconcelos Melo Costa, Fullstack developer from Brazil. 
 
-## Where to find me:
+## 🧭 Where to find me:
 
 - [My portfolio](https://www.fernandomelocosta.com.br)
 - [My LinkedIn](https://www.linkedin.com/in/fernando-vasconcelos-melo-costa-725726231/)
+
+## 🚀 Expertise
+👋 Welcome to my GitHub profile! I'm Fernando, a passionate Fullstack Developer with a deep love for building web, mobile applications, and APIs. Node.js, Next.js, and React Native are my go-to tools for exceptional app development, but it's the fascinating world of APIs that truly captivates me.
+
 
 ## Coding Activity:
 
