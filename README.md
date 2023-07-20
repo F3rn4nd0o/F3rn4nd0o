@@ -13,13 +13,6 @@ I'm Fernando Vasconcelos Melo Costa, Fullstack developer from Brazil.
 ## 🎯 Expertise
 Welcome to my GitHub profile! I'm Fernando, a passionate Fullstack Developer with a deep love for building web, mobile applications, and APIs. Node.js, Next.js, and React Native are my go-to tools for exceptional app development, but it's the fascinating world of APIs that truly captivates me.
 
-
-## 🚀 Coding Activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F3rn4nd0o&show_icons=true&theme=react)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F3rn4nd0o&layout=compact&theme=react)
-![](https://github-readme-streak-stats.herokuapp.com/?user=F3rn4nd0o&theme=react)
-
 ## 💻 Tech Stacks:
 
 📚 Frameworks
@@ -42,3 +35,9 @@ Welcome to my GitHub profile! I'm Fernando, a passionate Fullstack Developer wit
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 Coding Activity:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F3rn4nd0o&show_icons=true&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F3rn4nd0o&layout=compact&theme=react)
+![](https://github-readme-streak-stats.herokuapp.com/?user=F3rn4nd0o&theme=react)
