@@ -11,8 +11,8 @@ I'm Fernando V. Melo Costa, Fullstack developer from Brazil.
 
 ## Coding Activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?F3rn4nd0o&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?F3rn4nd0o&layout=compact&theme=radical)
 
 ## My Development Stack:
 <!--
