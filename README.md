@@ -6,7 +6,7 @@ I'm Fernando Vasconcelos Melo Costa, Fullstack developer from Brazil.
 
 ## 🔍 Where to find me:
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.fernandomelocosta.com.br)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logoColor=white)](https://www.fernandomelocosta.com.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-vasconcelos-melo-costa-725726231/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seu_usuario/)
 
