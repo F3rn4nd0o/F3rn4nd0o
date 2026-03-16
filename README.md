@@ -13,6 +13,12 @@
 
 ---
 
+### 🌟 Featured Project
+**[core-messaging-blueprint](https://github.com/F3rn4nd0o/core-messaging-blueprint)**
+*Architectural showcase of a resilient multi-channel messaging system. Features: Adapter Pattern, HMAC Security, and KEDA Scaling.*
+
+---
+
 ### 💻 Tech Stack
 
 | Category | Tools |
@@ -29,5 +35,5 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/fernando-vasconcelos-melo-costa-725726231/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:fernandovasconcelosmelo@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:fernandovasconcelosmelo@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
 </p>
