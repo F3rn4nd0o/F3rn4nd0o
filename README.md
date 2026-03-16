@@ -25,19 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F3rn4nd0o&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3rn4nd0o&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F3rn4nd0o&theme=react" />
-</p>
-
----
-
 ### 📫 Connect with me:
 
 <p align="left">
